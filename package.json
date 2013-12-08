@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "uglify-js": "2.4.5",
+    "uglify-js": "https://github.com/mishoo/UglifyJS2/archive/master.tar.gz",
     "grunt-lib-contrib": "~0.6.1"
   },
   "devDependencies": {
